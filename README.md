@@ -1,1 +1,1 @@
-# PKU EECS Computer Network 2022 Spring Labs
+# Computer Network Labs
